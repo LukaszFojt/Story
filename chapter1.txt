@@ -1,11 +1,2 @@
-mkdir Story
-cd Story
-touch chapter1.txt
-start chapter1.txt - otwiera plik
-git init 
-ls -a - pokazuje ukryte pliki
-git status - shows files that are going to be a part of the next commit
-git add - przenieś plik do staging area -> zmiany będą na bieżąco sprawdzane
-git commit -m "message" - wywołaj + wiadomość
-git log - sprawdź logi
+nicość
 
